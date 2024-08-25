@@ -1074,8 +1074,11 @@ section{
 
 } */
 @media(max-width:400px){
-    .home_head{
+/*     .home_head{
         margin-bottom: -280px;
+    } */
+    .home_head{
+        margin-bottom: -330px;
     }
 
 }
